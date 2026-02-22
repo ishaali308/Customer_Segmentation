@@ -1,5 +1,5 @@
 # Customer_Segmentation using K-Means Clustering
-**Project Goal
+##Project Goal
 The aim of this project is to perform market basket analysis by segmenting customers of a mall into distinct groups. This helps businesses understand customer behaviour and create targeted marketing strategies.
 ## Detailed workflow
 ### Data Preprocessing:
@@ -23,8 +23,8 @@ Average Income, Average spending.
 ### Group 4 :
 High Income, Low spending
 ### Technologies used:
-Language :  Python
-Data Processing :  Pandas and Numpy
-K-Means Clustering model : Scikit_learn
-Cluster Visualization : Matplotlib and Seaborn
+#### Language :  Python
+#### Data Processing :  Pandas and Numpy
+#### K-Means Clustering model : Scikit_learn
+#### Cluster Visualization : Matplotlib and Seaborn
 
