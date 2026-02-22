@@ -22,6 +22,8 @@ Low income, Low spending.
 Average Income, Average spending.
 ### Group 4 :
 High Income, Low spending
+### Group 5 :
+Low income, High spending
 ### Technologies used:
 #### Language :  Python
 #### Data Processing :  Pandas and Numpy
