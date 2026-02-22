@@ -1,5 +1,5 @@
 # Customer_Segmentation using K-Means Clustering
-##Project Goal
+Project Goal
 The aim of this project is to perform market basket analysis by segmenting customers of a mall into distinct groups. This helps businesses understand customer behaviour and create targeted marketing strategies.
 ## Detailed workflow
 ### Data Preprocessing:
